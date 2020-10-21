@@ -6,5 +6,5 @@ CSS moving clock
 
 ## Live demo
 
-https://shimele.github.io/CCS-Clock/.
+https://shimele.github.io/CSS-Clock/
 
