@@ -92,7 +92,7 @@ body {
   animation: rotate 3600s infinite linear; /* rotate once each hours (43,200 seconds)*/
 }
 .moving-niddle {
-  background: #571845;
+  background: #ffc300;
   height: 45%;
   position: absolute;
   top: 17%;
